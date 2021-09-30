@@ -16,6 +16,8 @@
                                         <div class="mb-30">
                                             <h4 class="text-center txt-dark mb-10">Sign in to COVID-19 Isolation Facility</h4>
                                             <h6 class="text-center nonecase-font txt-grey">Enter your details below</h6>
+                                            <p class="text-center">Email: towhidhasang1@gmail.com</p>
+                                            <p class="text-center">Password: 12345678</p>
                                         </div>  
                                         <div class="form-wrap">
         <form method="POST" action="{{ route('login') }}">
